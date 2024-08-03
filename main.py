@@ -16,7 +16,7 @@ from toPNG import toPNG
 # ******************************************************
 # List of mail
 # ******************************************************
-# mailList = ["gulabpreets01@gmail.com"]
+# mailList = ["Tafseer.Alam2000@gmail.com"]
 
 subject = "Attendance of your ward"
 
